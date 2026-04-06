@@ -1,6 +1,6 @@
 id = "aira"
 name = "Aira Theme"
-version = "0.0.2"
+version = "1.0.0"
 schema_version = 1
 authors = ["talison-cardoso"]
 description = "A calm green theme for Zed, crafted to enhance focus and visual comfort."
